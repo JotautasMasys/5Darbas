@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="use_async_task" />
+    <string name="msg_using_async_task">Using AsyncTask</string>
+    <string name="msg_using_thread">Using Thread and Runnable</string>
+    <string name="data_loaded">Data loaded:\n</string>
+    <string name="loading_data">Loading data...\n</string>
 </resources>
